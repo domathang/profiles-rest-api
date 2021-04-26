@@ -6,7 +6,8 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/deploy/deploy/nginx_profiles_api.conf" beforeDir="false" afterPath="$PROJECT_DIR$/deploy/nginx_profiles_api.conf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/deploy/deploy/supervisor_profiles_api.conf" beforeDir="false" afterPath="$PROJECT_DIR$/deploy/supervisor_profiles_api.conf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deploy/deploy/update.sh" beforeDir="false" afterPath="$PROJECT_DIR$/deploy/update.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deploy/setup.sh" beforeDir="false" afterPath="$PROJECT_DIR$/deploy/setup.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deploy/update.sh" beforeDir="false" afterPath="$PROJECT_DIR$/deploy/update.sh" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/profiles_project/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/profiles_project/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
